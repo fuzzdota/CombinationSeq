@@ -1,10 +1,8 @@
+
 html, body {
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
-}
-paper-toolbar.paper-toolbar-0 {
-	background: rgb(215, 169, 71);
-	color: black;
+	
 }
 
 .profile-image {
